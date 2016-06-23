@@ -1,0 +1,1 @@
+class { tomcats::windows::instance: }

@@ -1,0 +1,11 @@
+{
+  "CHANGELOG.md": "5fe0b53f0f78414cdadc1b76293f7013",
+  "LICENSE": "0bb6e240844265516efdc035fb203f4b",
+  "README.md": "c5b5f72b3d450c2308f7f3fd33baa890",
+  "manifests/params.pp": "19f5bffff7422721e245d6c7637b0f75",
+  "manifests/server.pp": "84589634280c951c7860fede228882f9",
+  "metadata.json": "849ffced98d45d849fa1845a0d2ea41a",
+  "templates/smb.conf.erb": "634fb946f830c303def3a61d00f49783",
+  "templates/smb.conf.orig": "f359826da1ec75890b41b9446ae52a0f",
+  "tests/server.pp": "818da5c340e103a09cd6167055c38f8f"
+}
